@@ -2944,6 +2944,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-05-24 22:26:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2025-05-24 22:20:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-05-24 22:10:30 +0000"
+    },
+    "done": true
+  },
   "vinery:main/grape_picker": {
     "criteria": {
       "vinery:taiga_grapes_red": "2025-05-24 21:58:32 +0000",
@@ -2952,6 +2970,12 @@
       "vinery:taiga_grapes_white": "2025-05-24 21:58:45 +0000"
     },
     "done": false
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-24 22:10:30 +0000"
+    },
+    "done": true
   },
   "another_furniture:recipes/jungle_chair": {
     "criteria": {
@@ -2962,6 +2986,12 @@
   "vinery:main/mashy_success": {
     "criteria": {
       "apple_mash": "2025-05-24 21:59:08 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-05-24 22:10:30 +0000"
     },
     "done": true
   },
@@ -2983,9 +3013,27 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/cherry/cherry_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-24 22:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-05-24 22:26:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-24 21:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-24 22:26:05 +0000"
     },
     "done": true
   },
@@ -3007,9 +3055,33 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/cherry/cherry_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-24 22:10:30 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/jungle_table": {
     "criteria": {
       "has_planks": "2025-05-24 21:44:47 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-24 22:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-05-24 22:26:05 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-24 22:10:30 +0000"
     },
     "done": true
   },
@@ -3037,9 +3109,52 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/cherry/cherry_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-24 22:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-05-24 22:19:36 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-05-24 22:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-05-24 22:26:05 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-24 22:10:30 +0000",
+      "has_the_recipe": "2025-05-24 22:10:30 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/jungle_wine_rack_small": {
     "criteria": {
       "has_jungle_planks": "2025-05-24 21:44:47 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_chair": {
+    "criteria": {
+      "has_planks": "2025-05-24 22:26:05 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-24 22:10:30 +0000"
     },
     "done": true
   },
@@ -3049,9 +3164,45 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/cherry/cherry_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-24 22:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-24 22:26:05 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-24 22:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-24 22:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-05-24 22:26:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-05-24 21:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-05-24 22:10:30 +0000"
     },
     "done": true
   },
@@ -3061,9 +3212,27 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-05-24 22:10:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-24 21:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2025-05-24 22:30:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-24 22:26:05 +0000"
     },
     "done": true
   },
@@ -3073,15 +3242,51 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/cherry/cherry_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-24 22:10:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-24 22:10:30 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_shelf": {
+    "criteria": {
+      "has_planks": "2025-05-24 22:26:05 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-24 22:10:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-24 21:44:47 +0000"
     },
     "done": true
   },
+  "another_furniture:recipes/cherry_table": {
+    "criteria": {
+      "has_planks": "2025-05-24 22:26:05 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/jungle/jungle_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-05-24 21:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-05-24 22:20:04 +0000"
     },
     "done": true
   },
