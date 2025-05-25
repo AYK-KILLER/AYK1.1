@@ -1160,6 +1160,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2025-05-21 19:01:29 +0000",
+      "potato": "2025-05-25 11:43:05 +0000",
+      "pumpkin_pie": "2025-05-25 11:47:24 +0000",
       "bread": "2025-05-21 17:54:52 +0000",
       "golden_apple": "2025-05-21 19:03:56 +0000",
       "golden_carrot": "2025-05-21 17:33:30 +0000"
@@ -3674,8 +3676,12 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2025-05-25 11:41:29 +0000",
       "minecraft:bee": "2025-05-24 22:36:50 +0000",
-      "minecraft:cat": "2025-05-25 11:03:14 +0000"
+      "minecraft:cat": "2025-05-25 11:03:14 +0000",
+      "minecraft:pig": "2025-05-25 11:41:54 +0000",
+      "minecraft:sheep": "2025-05-25 11:41:06 +0000",
+      "minecraft:chicken": "2025-05-25 11:44:10 +0000"
     },
     "done": false
   },
@@ -3947,6 +3953,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-25 10:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-25 11:40:59 +0000"
     },
     "done": true
   },
