@@ -172,6 +172,7 @@
       "minecraft:taiga": "2025-05-20 22:42:13 +0000",
       "minecraft:frozen_river": "2025-05-21 17:40:02 +0000",
       "minecraft:cherry_grove": "2025-05-24 21:53:57 +0000",
+      "minecraft:sunflower_plains": "2025-05-25 11:02:43 +0000",
       "minecraft:beach": "2025-05-20 22:35:41 +0000",
       "minecraft:dark_forest": "2025-05-21 18:28:30 +0000",
       "minecraft:mangrove_swamp": "2025-05-21 18:49:37 +0000",
@@ -3381,6 +3382,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-25 11:06:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-25 10:28:07 +0000"
@@ -3390,6 +3397,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-25 10:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-05-25 11:06:58 +0000"
     },
     "done": true
   },
@@ -3429,6 +3442,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-05-25 11:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-05-25 11:06:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-25 10:19:31 +0000"
@@ -3438,6 +3463,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-25 10:28:07 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-25 11:06:53 +0000"
     },
     "done": true
   },
@@ -3459,9 +3490,33 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-05-25 11:06:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-05-25 10:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-05-25 11:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-25 11:06:53 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-25 11:06:53 +0000"
     },
     "done": true
   },
@@ -3477,6 +3532,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-25 11:06:58 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-25 11:06:53 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-05-25 11:06:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-25 10:28:07 +0000"
@@ -3489,9 +3562,27 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-05-25 11:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-05-25 11:06:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-05-25 10:05:03 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/birch_wine_rack_small": {
+    "criteria": {
+      "has_birch_planks": "2025-05-25 11:06:58 +0000"
     },
     "done": true
   },
@@ -3501,9 +3592,21 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-05-25 11:06:53 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/spruce_shelf": {
     "criteria": {
       "has_planks": "2025-05-25 10:05:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-25 11:06:58 +0000"
     },
     "done": true
   },
@@ -3549,9 +3652,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-25 11:06:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-25 10:05:03 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_paper": {
+    "criteria": {
+      "has_logs": "2025-05-25 11:06:53 +0000"
     },
     "done": true
   },
@@ -3567,6 +3682,18 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_cherry_trapdoor": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-25 11:03:33 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-25 11:06:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-05-25 10:26:14 +0000"
@@ -3576,6 +3703,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-25 10:26:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-25 11:06:53 +0000"
     },
     "done": true
   },
@@ -3591,9 +3724,27 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_cherry_floorboard": {
+    "criteria": {
+      "has_cherry_wood": "2025-05-25 11:03:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-25 10:19:31 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_pressure_plate": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-25 11:03:33 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-25 11:06:53 +0000"
     },
     "done": true
   },
@@ -3645,6 +3796,12 @@
     },
     "done": true
   },
+  "vinery:recipes/birch_wine_rack_big": {
+    "criteria": {
+      "has_birch_planks": "2025-05-25 11:06:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-25 10:19:31 +0000"
@@ -3687,6 +3844,12 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_cherry_stairs": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-25 11:03:33 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/spruce_bench": {
     "criteria": {
       "has_slab": "2025-05-25 10:30:39 +0000"
@@ -3705,6 +3868,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-25 11:06:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-25 10:28:07 +0000"
@@ -3714,6 +3883,12 @@
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-25 10:28:07 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_chair": {
+    "criteria": {
+      "has_planks": "2025-05-25 11:06:58 +0000"
     },
     "done": true
   },
@@ -3741,6 +3916,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-25 11:06:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-05-25 10:05:03 +0000"
@@ -3759,6 +3940,18 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_cherry_door": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-25 11:03:33 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-25 11:06:53 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/wine_box": {
     "criteria": {
       "has_glass": "2025-05-25 10:26:14 +0000"
@@ -3771,15 +3964,45 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_cherry_button": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-25 11:03:33 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-25 11:06:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-25 10:28:07 +0000"
     },
     "done": true
   },
+  "vinery:recipes/dark_cherry_slab": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-25 11:03:33 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/mosaic_glass": {
     "criteria": {
       "has_wood": "2025-05-25 10:26:14 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-25 11:06:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-25 11:06:58 +0000"
     },
     "done": true
   },
@@ -3813,6 +4036,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/birch_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-25 11:06:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-25 10:26:14 +0000"
@@ -3837,6 +4066,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/birch_shelf": {
+    "criteria": {
+      "has_planks": "2025-05-25 11:06:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-25 10:28:07 +0000"
@@ -3849,9 +4084,39 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-25 11:06:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-25 11:06:58 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_table": {
+    "criteria": {
+      "has_planks": "2025-05-25 11:06:58 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_planks": {
+    "criteria": {
+      "has_the_recipe": "2025-05-25 11:03:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-05-25 10:05:03 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-25 11:06:53 +0000"
     },
     "done": true
   },

@@ -3674,7 +3674,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:bee": "2025-05-24 22:36:50 +0000"
+      "minecraft:bee": "2025-05-24 22:36:50 +0000",
+      "minecraft:cat": "2025-05-25 11:03:14 +0000"
     },
     "done": false
   },
@@ -3738,6 +3739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-25 10:58:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-25 10:48:34 +0000"
@@ -3747,6 +3754,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-25 10:48:34 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2025-05-25 10:58:51 +0000"
     },
     "done": true
   },
@@ -3779,6 +3792,13 @@
       "has_slab": "2025-05-25 09:54:30 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:jellie": "2025-05-25 10:58:55 +0000",
+      "minecraft:ragdoll": "2025-05-25 11:02:55 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
@@ -3918,9 +3938,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-25 10:58:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-25 10:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-05-25 10:58:51 +0000"
     },
     "done": true
   },
