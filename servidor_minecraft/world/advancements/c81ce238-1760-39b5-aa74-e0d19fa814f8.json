@@ -2944,84 +2944,9 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
+  "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade": {
     "criteria": {
-      "get_stone": "2025-05-24 22:37:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/furnace": {
-    "criteria": {
-      "has_cobblestone": "2025-05-24 22:37:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_fence": {
-    "criteria": {
-      "has_planks": "2025-05-24 22:26:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
-    "criteria": {
-      "has_item": "2025-05-24 22:20:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-05-24 22:37:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2025-05-24 22:10:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone": {
-    "criteria": {
-      "has_cobblestone": "2025-05-24 22:37:50 +0000"
-    },
-    "done": true
-  },
-  "vinery:main/grape_picker": {
-    "criteria": {
-      "vinery:taiga_grapes_red": "2025-05-24 21:58:32 +0000",
-      "vinery:savanna_grapes_red": "2025-05-24 21:58:32 +0000",
-      "vinery:red_grape": "2025-05-24 21:58:32 +0000",
-      "vinery:taiga_grapes_white": "2025-05-24 21:58:45 +0000"
-    },
-    "done": false
-  },
-  "mcwtrpdoors:recipes/cherry/cherry_cottage_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-05-24 22:10:30 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/jungle_chair": {
-    "criteria": {
-      "has_planks": "2025-05-24 21:44:47 +0000"
-    },
-    "done": true
-  },
-  "vinery:main/mashy_success": {
-    "criteria": {
-      "apple_mash": "2025-05-24 21:59:08 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/cherry": {
-    "criteria": {
-      "has_wood": "2025-05-24 22:10:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_stairs": {
-    "criteria": {
-      "has_planks": "2025-05-24 21:44:47 +0000"
+      "has_smoking_upgrade": "2025-05-24 21:37:00 +0000"
     },
     "done": true
   },
@@ -3037,33 +2962,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_pickaxe": {
+  "farmersdelight:recipes/food/cooked_bacon": {
     "criteria": {
-      "has_cobblestone": "2025-05-24 22:37:50 +0000"
+      "cooked_bacon": "2025-05-24 21:41:40 +0000"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/cherry/cherry_barred_trapdoor": {
+  "another_furniture:recipes/jungle_chair": {
     "criteria": {
-      "has_logs": "2025-05-24 22:10:30 +0000"
+      "has_planks": "2025-05-24 21:44:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cherry_sign": {
+  "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
-      "has_planks": "2025-05-24 22:26:05 +0000"
+      "has_planks": "2025-05-24 21:44:47 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-24 21:44:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-05-24 22:26:05 +0000"
     },
     "done": true
   },
@@ -3079,21 +2998,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
-    "criteria": {
-      "has_cobblestone": "2025-05-24 22:37:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-05-24 21:44:47 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/cherry/cherry_mystic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-05-24 22:10:30 +0000"
     },
     "done": true
   },
@@ -3103,45 +3010,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/cherry/cherry_classic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-05-24 22:10:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-05-24 22:37:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2025-05-24 22:37:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_door": {
-    "criteria": {
-      "has_planks": "2025-05-24 22:26:05 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/cherry/cherry_paper_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-05-24 22:10:30 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/jungle_shelf": {
     "criteria": {
       "has_planks": "2025-05-24 21:44:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2025-05-24 22:37:50 +0000"
     },
     "done": true
   },
@@ -3151,15 +3022,108 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooked_bacon": {
-    "criteria": {
-      "cooked_bacon": "2025-05-24 21:41:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-05-24 21:44:47 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/jungle_wine_rack_small": {
+    "criteria": {
+      "has_jungle_planks": "2025-05-24 21:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-05-24 21:44:47 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/jungle_wine_rack_big": {
+    "criteria": {
+      "has_jungle_planks": "2025-05-24 21:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-24 21:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-24 21:44:47 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-05-24 21:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-24 21:49:48 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/grape_picker": {
+    "criteria": {
+      "vinery:taiga_grapes_red": "2025-05-24 21:58:32 +0000",
+      "vinery:savanna_grapes_red": "2025-05-24 21:58:32 +0000",
+      "vinery:red_grape": "2025-05-24 21:58:32 +0000",
+      "vinery:taiga_grapes_white": "2025-05-24 21:58:45 +0000"
+    },
+    "done": false
+  },
+  "vinery:main/mashy_success": {
+    "criteria": {
+      "apple_mash": "2025-05-24 21:59:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-05-24 22:10:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-24 22:10:30 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-05-24 22:10:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-24 22:10:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-24 22:10:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-24 22:10:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-24 22:10:30 +0000"
     },
     "done": true
   },
@@ -3169,27 +3133,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lever": {
-    "criteria": {
-      "has_cobblestone": "2025-05-24 22:37:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
-    "criteria": {
-      "has_pink_petals": "2025-05-24 22:19:36 +0000"
-    },
-    "done": true
-  },
   "mcwdoors:recipes/cherry": {
     "criteria": {
       "has_wood": "2025-05-24 22:10:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_slab": {
-    "criteria": {
-      "has_planks": "2025-05-24 22:26:05 +0000"
     },
     "done": true
   },
@@ -3200,45 +3146,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/stone_sword": {
-    "criteria": {
-      "has_cobblestone": "2025-05-24 22:37:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2025-05-24 22:37:50 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/jungle_wine_rack_small": {
-    "criteria": {
-      "has_jungle_planks": "2025-05-24 21:44:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_axe": {
-    "criteria": {
-      "has_cobblestone": "2025-05-24 22:37:50 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/cherry_chair": {
-    "criteria": {
-      "has_planks": "2025-05-24 22:26:05 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/cherry/cherry_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-24 22:10:30 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade": {
-    "criteria": {
-      "has_smoking_upgrade": "2025-05-24 21:37:00 +0000"
     },
     "done": true
   },
@@ -3248,33 +3158,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_stairs": {
-    "criteria": {
-      "has_planks": "2025-05-24 22:26:05 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/cherry/cherry_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-24 22:10:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-05-24 22:26:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_button": {
-    "criteria": {
-      "has_planks": "2025-05-24 22:26:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_button": {
-    "criteria": {
-      "has_planks": "2025-05-24 21:44:47 +0000"
     },
     "done": true
   },
@@ -3284,39 +3170,9 @@
     },
     "done": true
   },
-  "vinery:recipes/jungle_wine_rack_big": {
-    "criteria": {
-      "has_jungle_planks": "2025-05-24 21:44:47 +0000"
-    },
-    "done": true
-  },
   "mcwfurnitures:recipes/cherry": {
     "criteria": {
       "has_wood": "2025-05-24 22:10:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-05-24 21:44:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/torch": {
-    "criteria": {
-      "has_the_recipe": "2025-05-24 22:30:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-05-24 22:26:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-05-24 21:49:48 +0000"
     },
     "done": true
   },
@@ -3332,27 +3188,93 @@
     },
     "done": true
   },
-  "another_furniture:recipes/cherry_shelf": {
-    "criteria": {
-      "has_planks": "2025-05-24 22:26:05 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/cherry/cherry_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-24 22:10:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_pressure_plate": {
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
-      "has_planks": "2025-05-24 21:44:47 +0000"
+      "has_pink_petals": "2025-05-24 22:19:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
-      "has_cobblestone": "2025-05-24 22:37:50 +0000"
+      "has_item": "2025-05-24 22:20:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-05-24 22:20:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-05-24 22:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-05-24 22:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-24 22:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-05-24 22:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-05-24 22:26:05 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_chair": {
+    "criteria": {
+      "has_planks": "2025-05-24 22:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-24 22:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-24 22:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-05-24 22:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-24 22:26:05 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cherry_shelf": {
+    "criteria": {
+      "has_planks": "2025-05-24 22:26:05 +0000"
     },
     "done": true
   },
@@ -3362,21 +3284,99 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/jungle/jungle_blossom_trapdoor": {
+  "minecraft:recipes/decorations/torch": {
     "criteria": {
-      "has_plankss": "2025-05-24 21:44:47 +0000"
+      "has_the_recipe": "2025-05-24 22:30:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-24 22:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-05-24 22:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-24 22:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-05-24 22:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-24 22:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-05-24 22:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-24 22:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-05-24 22:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-05-24 22:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-05-24 22:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-05-24 22:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-05-24 22:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-24 22:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-24 22:37:50 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-05-24 22:37:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-05-24 22:20:04 +0000"
     },
     "done": true
   },
