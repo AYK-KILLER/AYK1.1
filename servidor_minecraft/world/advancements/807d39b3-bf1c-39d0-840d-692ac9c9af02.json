@@ -1909,7 +1909,8 @@
   },
   "friendsandfoes:husbandry/beehive": {
     "criteria": {
-      "spruce_beehive": "2025-05-21 17:50:38 +0000"
+      "spruce_beehive": "2025-05-21 17:50:38 +0000",
+      "birch_beehive": "2025-05-25 10:04:43 +0000"
     },
     "done": false
   },
@@ -3730,15 +3731,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-25 09:58:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-05-25 09:55:58 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-25 09:58:41 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/birch_flower_box": {
     "criteria": {
       "has_slab": "2025-05-25 09:54:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-25 09:58:41 +0000"
     },
     "done": true
   },
@@ -3760,6 +3779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-25 09:58:41 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/birch_bench": {
     "criteria": {
       "has_slab": "2025-05-25 09:54:30 +0000"
@@ -3775,6 +3800,18 @@
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_log": "2025-05-25 09:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-25 09:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-25 09:58:41 +0000"
     },
     "done": true
   },
