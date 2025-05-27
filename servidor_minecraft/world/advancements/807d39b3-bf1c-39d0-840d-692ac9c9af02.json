@@ -3992,9 +3992,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-05-27 17:24:46 +0000"
+    },
+    "done": true
+  },
   "ribbits:recipes/mossy_oak_planks_from_vine": {
     "criteria": {
       "has_vine": "2025-05-27 17:15:13 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2025-05-27 17:25:12 +0000"
     },
     "done": true
   },
