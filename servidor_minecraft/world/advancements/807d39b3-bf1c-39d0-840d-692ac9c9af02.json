@@ -3739,15 +3739,99 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
+  "another_furniture:recipes/birch_flower_box": {
     "criteria": {
-      "has_sand": "2025-05-25 10:48:34 +0000"
+      "has_slab": "2025-05-25 09:54:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
+  "another_furniture:recipes/birch_shutter": {
     "criteria": {
-      "has_cod": "2025-05-25 10:58:51 +0000"
+      "has_slab": "2025-05-25 09:54:30 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_bench": {
+    "criteria": {
+      "has_slab": "2025-05-25 09:54:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-25 09:54:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-05-25 09:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-25 09:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-25 09:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-25 09:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-25 09:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-25 09:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-25 09:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-25 09:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-25 09:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-25 09:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-05-25 10:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-25 10:48:34 +0000"
     },
     "done": true
   },
@@ -3763,55 +3847,6 @@
     },
     "done": true
   },
-  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
-    "criteria": {
-      "has_cod": "2025-05-25 10:58:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_boots": "2025-05-25 10:19:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-05-25 09:58:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-05-25 09:55:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-05-25 09:58:41 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/birch_flower_box": {
-    "criteria": {
-      "has_slab": "2025-05-25 09:54:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/complete_catalogue": {
-    "criteria": {
-      "minecraft:jellie": "2025-05-25 10:58:55 +0000",
-      "minecraft:ragdoll": "2025-05-25 11:02:55 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-05-25 09:58:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-25 10:48:34 +0000"
@@ -3824,33 +3859,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-05-25 09:55:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-25 10:48:34 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/birch_shutter": {
-    "criteria": {
-      "has_slab": "2025-05-25 09:54:30 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/birch_cabinet": {
-    "criteria": {
-      "has_birch_trapdoor": "2025-05-25 09:54:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-05-25 09:58:41 +0000"
     },
     "done": true
   },
@@ -3902,33 +3913,9 @@
     },
     "done": true
   },
-  "another_furniture:recipes/birch_bench": {
-    "criteria": {
-      "has_slab": "2025-05-25 09:54:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-05-25 09:54:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_birch_wood": {
-    "criteria": {
-      "has_log": "2025-05-25 09:55:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-25 10:48:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-05-25 09:58:41 +0000"
     },
     "done": true
   },
@@ -3944,21 +3931,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-05-25 10:58:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-25 10:48:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
-      "has_hay_block": "2025-05-25 11:40:59 +0000"
+      "has_cod": "2025-05-25 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2025-05-25 10:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-25 10:58:51 +0000"
     },
     "done": true
   },
@@ -3968,9 +3961,28 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+  "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "has_mossy_cobblestone": "2025-05-25 09:58:41 +0000"
+      "minecraft:jellie": "2025-05-25 10:58:55 +0000",
+      "minecraft:ragdoll": "2025-05-25 11:02:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-25 11:40:59 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_1": "2025-05-25 11:50:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-27 17:04:28 +0000"
     },
     "done": true
   },
