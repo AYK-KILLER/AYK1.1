@@ -1831,6 +1831,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "glow_berries": "2025-05-27 17:47:24 +0000",
       "beetroot": "2025-05-21 17:45:44 +0000",
       "potato": "2025-05-21 17:45:35 +0000",
       "wheat": "2025-05-21 17:45:55 +0000",
@@ -3986,6 +3987,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-27 17:47:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-27 17:47:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
     "criteria": {
       "has_vine": "2025-05-27 17:15:13 +0000"
@@ -3995,6 +4008,12 @@
   "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2025-05-27 17:24:46 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-05-27 17:47:11 +0000"
     },
     "done": true
   },
@@ -4025,6 +4044,12 @@
   "another_furniture:recipes/spruce_shutter": {
     "criteria": {
       "has_slab": "2025-05-27 17:14:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-05-27 17:45:41 +0000"
     },
     "done": true
   },
