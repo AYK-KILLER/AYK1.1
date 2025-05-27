@@ -1269,3 +1269,35 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [27May2025 17:34:13.528] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
 [27May2025 17:40:25.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AXREK24: Set the time to 1000]
 [27May2025 17:50:04.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AXREK24: Set the time to 1000]
+[27May2025 17:56:11.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AXREK24: Set own game mode to Survival Mode]
+[27May2025 17:56:50.725] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Lionfish['momo'/7856, l='ServerLevel[world]', x=1704411.77, y=124.78, z=305870.15] died: momo was slain by AXREK24
+[27May2025 17:57:06.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AXREK24: Set own game mode to Creative Mode]
+[27May2025 17:58:02.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AXREK24: Set own game mode to Survival Mode]
+[27May2025 17:59:28.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AXREK24: Set the time to 1000]
+[27May2025 18:00:44.977] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[27May2025 18:00:44.978] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[27May2025 18:00:44.978] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[27May2025 18:02:46.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AXREK24: Set own game mode to Creative Mode]
+[27May2025 18:02:54.888] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: StormbornKiller lost connection: Disconnected
+[27May2025 18:02:54.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StormbornKiller left the game
+[27May2025 18:03:12.178] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[27May2025 18:03:12.178] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[27May2025 18:03:12.178] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[27May2025 18:03:30.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AXREK24: Set own game mode to Survival Mode]
+[27May2025 18:04:00.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AXREK24 has made the advancement [We Need to Go Deeper]
+[27May2025 18:04:01.678] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4101ms or 82 ticks behind
+[27May2025 18:04:01.958] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: StormbornKiller[/100.106.148.81:60143] logged in with entity id 9618 at (1704430.3103881483, 124.0, 305849.1424505857)
+[27May2025 18:04:01.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StormbornKiller joined the game
+[27May2025 18:06:20.827] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[27May2025 18:06:39.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AXREK24 has made the advancement [Nightmare Fuel]
+[27May2025 18:07:09.029] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[27May2025 18:07:09.029] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[27May2025 18:07:09.029] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[27May2025 18:07:09.030] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[27May2025 18:07:29.221] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[27May2025 18:07:29.222] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[27May2025 18:07:29.222] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[27May2025 18:09:53.727] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[27May2025 18:09:53.728] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[27May2025 18:09:53.728] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[27May2025 18:09:53.728] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
