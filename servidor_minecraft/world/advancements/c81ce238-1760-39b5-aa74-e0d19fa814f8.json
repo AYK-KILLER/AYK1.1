@@ -357,6 +357,7 @@
     "criteria": {
       "cooked_porkchop": "2025-05-27 18:22:38 +0000",
       "cookie": "2025-05-21 18:50:50 +0000",
+      "cooked_chicken": "2025-05-28 20:38:32 +0000",
       "potato": "2025-05-21 18:46:30 +0000",
       "bread": "2025-05-21 17:50:51 +0000",
       "beetroot": "2025-05-20 22:36:42 +0000",
@@ -4368,9 +4369,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-05-28 20:38:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-05-28 20:38:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-28 20:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-05-28 20:38:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_wool": {
     "criteria": {
       "has_needed_dye": "2025-05-28 20:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-05-28 20:38:06 +0000"
     },
     "done": true
   },
@@ -4383,6 +4414,12 @@
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2025-05-28 20:17:18 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/quartz": {
+    "criteria": {
+      "has_wood": "2025-05-28 20:38:06 +0000"
     },
     "done": true
   },
@@ -4419,6 +4456,12 @@
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_blue_wool": "2025-05-28 20:17:25 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-05-28 20:37:37 +0000"
     },
     "done": true
   },
@@ -4467,6 +4510,18 @@
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2025-05-28 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-05-28 20:38:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-05-28 20:38:06 +0000"
     },
     "done": true
   },

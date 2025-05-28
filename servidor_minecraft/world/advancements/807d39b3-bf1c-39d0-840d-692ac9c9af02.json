@@ -4378,6 +4378,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-05-28 20:36:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-05-28 20:22:33 +0000"
@@ -4450,6 +4456,12 @@
     },
     "done": true
   },
+  "pizzadelight:pizza_station": {
+    "criteria": {
+      "pizza_station": "2025-05-28 20:32:19 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/black_sofa_dyeing": {
     "criteria": {
       "has_white_sofa": "2025-05-28 20:17:09 +0000"
@@ -4480,6 +4492,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-05-28 20:35:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-05-28 20:22:33 +0000"
@@ -4489,6 +4507,12 @@
   "vinery:recipes/dark_oak_wine_rack_big": {
     "criteria": {
       "has_dark_oak_planks": "2025-05-28 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2025-05-28 20:35:07 +0000"
     },
     "done": true
   },
@@ -4615,6 +4639,12 @@
   "another_furniture:recipes/gray_lamp_dyeing": {
     "criteria": {
       "has_white_lamp": "2025-05-28 20:09:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-05-28 20:36:50 +0000"
     },
     "done": true
   },
