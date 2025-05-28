@@ -358,6 +358,7 @@
       "cooked_porkchop": "2025-05-27 18:22:38 +0000",
       "cookie": "2025-05-21 18:50:50 +0000",
       "cooked_chicken": "2025-05-28 20:38:32 +0000",
+      "beetroot_soup": "2025-05-28 20:46:31 +0000",
       "potato": "2025-05-21 18:46:30 +0000",
       "bread": "2025-05-21 17:50:51 +0000",
       "beetroot": "2025-05-20 22:36:42 +0000",
@@ -4333,6 +4334,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-05-28 20:40:18 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/blue_tall_stool": {
     "criteria": {
       "has_wool": "2025-05-28 20:17:25 +0000"
@@ -4342,6 +4349,12 @@
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_orange_wool": "2025-05-28 20:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-05-28 20:40:18 +0000"
     },
     "done": true
   },
@@ -4405,6 +4418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-05-28 20:40:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_blue_dye": "2025-05-28 20:17:18 +0000"
@@ -4441,9 +4460,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-28 20:40:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-05-28 20:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-28 20:40:18 +0000"
     },
     "done": true
   },
@@ -4477,6 +4508,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-28 20:46:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_candle": {
     "criteria": {
       "has_orange_dye": "2025-05-28 20:16:45 +0000"
@@ -4501,6 +4538,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_the_recipe": "2025-05-28 20:48:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_orange_carpet": {
     "criteria": {
       "has_needed_dye": "2025-05-28 20:16:45 +0000"
@@ -4510,6 +4553,24 @@
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2025-05-28 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-28 20:40:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-05-28 20:40:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-28 20:40:18 +0000"
     },
     "done": true
   },
@@ -4531,9 +4592,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-05-28 20:40:18 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/orange_sofa": {
     "criteria": {
       "has_wool": "2025-05-28 20:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-05-28 20:40:18 +0000"
     },
     "done": true
   },
@@ -4549,9 +4622,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-28 20:40:18 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/blue_lamp": {
     "criteria": {
       "has_wool": "2025-05-28 20:17:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-28 20:46:31 +0000"
     },
     "done": true
   },
@@ -4582,6 +4667,12 @@
   "upgrade_aquatic:recipes/building_blocks/dye_blue_bedroll": {
     "criteria": {
       "has_needed_dye": "2025-05-28 20:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-05-28 20:46:31 +0000"
     },
     "done": true
   },
