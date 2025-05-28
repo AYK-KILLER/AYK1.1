@@ -4312,6 +4312,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-05-28 20:22:33 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/light_gray_lamp_dyeing": {
     "criteria": {
       "has_white_lamp": "2025-05-28 20:09:11 +0000"
@@ -4369,6 +4375,12 @@
   "another_furniture:recipes/orange_lamp_dyeing": {
     "criteria": {
       "has_white_lamp": "2025-05-28 20:09:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-05-28 20:22:33 +0000"
     },
     "done": true
   },
@@ -4432,6 +4444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-28 20:27:02 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/black_sofa_dyeing": {
     "criteria": {
       "has_white_sofa": "2025-05-28 20:17:09 +0000"
@@ -4453,6 +4471,18 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-05-28 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-05-28 20:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-28 20:22:33 +0000"
     },
     "done": true
   },
@@ -4513,6 +4543,12 @@
   "another_furniture:recipes/lime_sofa_dyeing": {
     "criteria": {
       "has_white_sofa": "2025-05-28 20:17:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-05-28 20:19:37 +0000"
     },
     "done": true
   },
@@ -4615,6 +4651,12 @@
   "another_furniture:recipes/yellow_lamp_dyeing": {
     "criteria": {
       "has_white_lamp": "2025-05-28 20:09:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-05-28 20:22:33 +0000"
     },
     "done": true
   },
