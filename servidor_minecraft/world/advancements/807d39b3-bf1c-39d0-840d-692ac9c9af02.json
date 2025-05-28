@@ -4552,6 +4552,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/mangrove_bench": {
+    "criteria": {
+      "has_slab": "2025-05-28 20:58:59 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2025-05-28 20:22:33 +0000"
@@ -4645,6 +4651,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-05-28 20:39:09 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/mangrove_flower_box": {
+    "criteria": {
+      "has_slab": "2025-05-28 20:58:59 +0000"
     },
     "done": true
   },
@@ -4783,6 +4795,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-05-28 20:49:36 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/mangrove_shutter": {
+    "criteria": {
+      "has_slab": "2025-05-28 20:58:59 +0000"
     },
     "done": true
   },
