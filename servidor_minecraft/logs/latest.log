@@ -1427,3 +1427,24 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [28May2025 21:32:07.237] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
 [28May2025 21:32:07.237] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
 [28May2025 21:33:11.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AXREK24: Set the time to 1000]
+[28May2025 21:33:50.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AXREK24: Set own game mode to Survival Mode]
+[28May2025 21:36:53.936] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[28May2025 21:36:53.936] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[28May2025 21:36:53.937] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[28May2025 21:36:53.937] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[28May2025 21:36:53.987] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[28May2025 21:36:59.136] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[28May2025 21:39:14.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: StormbornKiller went up in flames
+[28May2025 21:40:50.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AXREK24: Set own game mode to Creative Mode]
+[28May2025 21:41:11.525] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity TropicalFish['1'/65, l='ServerLevel[world]', x=1704432.66, y=123.00, z=305853.94] died: 1 was slain by AXREK24
+[28May2025 21:41:23.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AXREK24: Set own game mode to Survival Mode]
+[28May2025 21:42:08.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AXREK24: Set own game mode to Creative Mode]
+[28May2025 21:42:25.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AXREK24: Set own game mode to Survival Mode]
+[28May2025 21:43:03.137] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[28May2025 21:43:03.137] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[28May2025 21:43:03.137] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[28May2025 21:43:03.138] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[28May2025 21:43:18.436] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[28May2025 21:43:18.437] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[28May2025 21:43:18.437] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
+[28May2025 21:43:18.437] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:crab_natural_spawn but it was marked as removed already
