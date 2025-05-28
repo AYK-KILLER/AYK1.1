@@ -4372,6 +4372,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/obtain_netherite_knife": {
+    "criteria": {
+      "obtain_netherite_knife": "2025-05-28 21:15:53 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/white_lamp_dyeing": {
     "criteria": {
       "has_white_lamp": "2025-05-28 20:09:11 +0000"
@@ -4438,6 +4444,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-28 21:10:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-05-28 20:49:36 +0000"
@@ -4453,6 +4465,12 @@
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-05-28 20:10:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-05-28 21:10:29 +0000"
     },
     "done": true
   },
@@ -4795,6 +4813,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-05-28 20:49:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/canvas_from_canvas_rug": {
+    "criteria": {
+      "has_canvas_rug": "2025-05-28 21:15:43 +0000"
     },
     "done": true
   },
